@@ -1,1 +1,19 @@
 
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "El dream Team",
+    "longName": "PBL HackMty",
+    "resources": {
+        "media": [
+        ]
+    },
+    "shortName": "PBL HackMty",
+    "uuid": "78f5a40c-db86-418d-ab6c-d57cb6441c0b",
+    "versionCode": 2,
+    "versionLabel": "2.0",
+    "watchapp": {
+        "watchface": false
+    }
